@@ -170,9 +170,9 @@ MIT License - 可自由使用和修改 | Free to use and modify
 
 ## 联系方式 | Contact
 
-- Email: your.email@university.edu
-- LinkedIn: [Your LinkedIn Profile]
-- GitHub: [Your GitHub Profile]
+- Email: leqing.xu@nottingham.ac.uk
+- LinkedIn: Leqing Xu
+- GitHub: LeqingXu1997
 
 ---
 
