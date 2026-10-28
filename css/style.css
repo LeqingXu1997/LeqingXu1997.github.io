@@ -357,6 +357,10 @@ body {
     color: var(--text-light);
 }
 
+.edu-detail + .edu-detail {
+    margin-top: 0.15rem;
+}
+
 .research-interests ul {
     list-style: none;
     display: grid;
